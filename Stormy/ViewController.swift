@@ -31,7 +31,6 @@ class ViewController: UIViewController {
                 
                 let currentWeather = Current(weatherDictionary: weatherDictionary)
                 
-                println(currentWeather.currentTime!)
                 
             }
             
